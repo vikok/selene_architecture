@@ -1301,12 +1301,6 @@ select {
   left: 25%;
 }
 
-.ba-titles:hover {
-  border: solid 21px #97d1eb;
-  width: 458px;
-  height: 731px;
-}
-
 /* .ba-how-work */
 .ba-how-work {
   background: url("../img/how_we_work.jpg") 50% no-repeat;
